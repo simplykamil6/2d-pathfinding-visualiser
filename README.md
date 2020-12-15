@@ -1,5 +1,5 @@
 # Pathfinder
-This is a simple 2D maze pathfinder written in Python
+This is a simple 2D maze pathfinder + visualiser
 
 # Requirements
 - pygame~=2.0.0
