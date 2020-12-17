@@ -1,4 +1,4 @@
-# Pathfinder
+# 2d-pathfinding-visualiser
 This is a simple 2D maze pathfinder + visualiser
 
 # Requirements
